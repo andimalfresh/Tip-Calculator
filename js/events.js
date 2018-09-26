@@ -1,3 +1,22 @@
+
+
+
+
+// var submitButton = document.getElementsByClassName('button')
+// submitButton.addEventListener('click', getTotal)
+
+// function getTotal(event) {
+//     let n = document.getElementById('total').value
+//     document.getElementById('return').innerHTML = n;
+// }parseINT
+
+
+
+
+// document.getElementById('btn').addEventListener('click', getTotal)
+
+
+
 // var submitButton = document.querySelector('total')
 // submitButton.addEventListener('click', submitForm)
 
@@ -22,16 +41,15 @@
 
 // </body>
 // </html>
+// var submitButton = document.querySelector('button')
+// submitButton.addEventListener('click', submitForm)
 
-var submitButton = document.querySelector('button')
-submitButton.addEventListener('click', submitForm)
+// function submitForm(event) {
 
-function submitForm(event) {
+//     var ticket = document.getElementById('total').value
 
-    var ticket = document.getElementById('total').value
-
-    function calculateTip(event) {
-        newTip = number = number * .2
-        return newTip
-    }
-}
+//     function calculateTip(event) {
+//         newTip = number = number * .2
+//         return newTip
+//     }
+// }
