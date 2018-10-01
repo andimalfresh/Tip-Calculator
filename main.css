@@ -2,39 +2,36 @@
     height: 100vh;
     width:100vw;
     background-color: rgb(0, 0, 0);
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
 }
 .wrapper {
     height: 80vh;
     width: 60vw;
     background-color: red;
     border-radius: 10%;
+}
+.flex-setup {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 .title {
     font-display: serif;
     font-size: 3em;
     margin: 50px;
 }
+.tellUser {
+    font-size: 1.5em;
+    margin: 20px;
+}
 .form-items {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    
+    justify-content: center;   
 }
-
 .return {
     margin: 50px;
 }
-
 .liqpic {
     height: 100px;
     width: 100px;
